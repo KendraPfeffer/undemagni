@@ -1,0 +1,40 @@
+{
+  "name": "undemagni",
+  "version": "1.0.0",
+  "description": "bitstamp rest and websocket v1 and v2 api client",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KendraPfeffer/undemagni.git"
+  },
+  "keywords": [
+    "bitstamp",
+    "dolores",
+    "bitcoin",
+    "sunt",
+    "client",
+    "v1",
+    "eos",
+    "litecoin",
+    "earum",
+    "asperiores",
+    "et",
+    "officia",
+    "withdrawal",
+    "delectus",
+    "order",
+    "cluster",
+    "cupiditate",
+    "books"
+  ],
+  "author": "JerelCruickshank",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "~3.7.2",
+    "debug": "~4.3.1",
+    "reconnecting-websocket": "^4.4.0",
+    "request": "~2.88.2",
+    "ws": "^7.4.6"
+  }
+}
